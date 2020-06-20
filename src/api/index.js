@@ -11,3 +11,7 @@ export const fetchData = async () => {
 
   }
 }
+
+export const fetchDailyDate = async () => {
+  
+}
