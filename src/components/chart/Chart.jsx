@@ -60,8 +60,6 @@ const Charts = ({ data: { confirmed, deaths, recovered }, country }) => {
       ) : null
   )
 
-  console.log(confirmed)
-
   return (
     <div className={styles.container}>
       {country ? barChart : lineChart}
