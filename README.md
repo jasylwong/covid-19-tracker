@@ -22,7 +22,6 @@ In particular, learning how to apply the following concepts:
 ## <a name="tech">Technologies used</a>
 
 - Frontend: React
-- Packages: 
 - API: https://covid19.mathdro.id/api
 - CI & CD: Netlify
 - Styling frameworks: Material-UI
